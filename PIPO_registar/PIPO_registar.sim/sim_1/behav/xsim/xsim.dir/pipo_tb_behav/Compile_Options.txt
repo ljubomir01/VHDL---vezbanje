@@ -1,0 +1,1 @@
+--incr --debug "typical" --relax --mt "2" -L "xil_defaultlib" -L "secureip" --snapshot "pipo_tb_behav" "xil_defaultlib.pipo_tb" -log "elaborate.log" 

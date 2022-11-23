@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../Zadatak3_registri_reset.srcs/sources_1/new/registri.vhd" \
+"../../../../Zadatak3_registri_reset.srcs/sim_1/new/registri_tb.vhd" \
+
+# Do not sort compile order
+nosort
