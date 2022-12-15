@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/Registarska banka sinhrono/Registarska banka sinhrono.srcs/sources_1/new/banka.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'banka'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/Registarska banka sinhrono/Registarska banka sinhrono.srcs/sim_1/new/banka_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'banka_tb'
