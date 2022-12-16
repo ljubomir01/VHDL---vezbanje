@@ -1,0 +1,7 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../ROM - sinhro.srcs/sources_1/new/memorija.vhd" \
+"../../../../ROM - sinhro.srcs/sim_1/new/memorija_tb.vhd" \
+
+# Do not sort compile order
+nosort

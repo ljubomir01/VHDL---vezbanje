@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/ROM - sinhro/ROM - sinhro.srcs/sources_1/new/memorija.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memorija'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/ROM - sinhro/ROM - sinhro.srcs/sim_1/new/memorija_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'memorija_tb'

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/4 - bitni brojac na dole/4 - bitni brojac na dole.srcs/sources_1/new/brojac.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'brojac'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/4 - bitni brojac na dole/4 - bitni brojac na dole.srcs/sim_1/new/brojac_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'brojac_tb'
