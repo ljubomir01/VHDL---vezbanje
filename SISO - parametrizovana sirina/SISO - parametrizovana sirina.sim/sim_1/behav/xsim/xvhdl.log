@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/SISO - parametrizovana sirina/SISO - parametrizovana sirina.srcs/sources_1/new/registar.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registar'
+INFO: [VRFC 10-163] Analyzing VHDL file "D:/Ljubomir/Documents/VHDL - vezbanje/SISO - parametrizovana sirina/SISO - parametrizovana sirina.srcs/sim_1/new/registar_tb.vhd" into library xil_defaultlib
+INFO: [VRFC 10-3107] analyzing entity 'registar_tb'
