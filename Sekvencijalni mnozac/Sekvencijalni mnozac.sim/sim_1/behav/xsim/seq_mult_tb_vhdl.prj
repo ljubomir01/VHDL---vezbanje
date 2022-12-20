@@ -1,0 +1,14 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"C:/Users/Ljubomir/Downloads/Vezba 8 - Design Files/adder.vhd" \
+"C:/Users/Ljubomir/Downloads/Vezba 8 - Design Files/comparator.vhd" \
+"../../../../Sekvencijalni mnozac.srcs/sources_1/new/control_path.vhd" \
+"C:/Users/Ljubomir/Downloads/Vezba 8 - Design Files/register.vhd" \
+"C:/Users/Ljubomir/Downloads/Vezba 8 - Design Files/decrementor.vhd" \
+"C:/Users/Ljubomir/Downloads/Vezba 8 - Design Files/multiplekser.vhd" \
+"../../../../Sekvencijalni mnozac.srcs/sources_1/new/data_path.vhd" \
+"../../../../Sekvencijalni mnozac.srcs/sources_1/new/seq_mult.vhd" \
+"../../../../Sekvencijalni mnozac.srcs/sim_1/new/seq_mult_tb.vhd" \
+
+# Do not sort compile order
+nosort
