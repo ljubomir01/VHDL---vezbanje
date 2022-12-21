@@ -22,18 +22,14 @@ signal ram_s:ram_type_t;
 begin
 ram: process(clk)
 begin
-    if(reset = '1') then
-        rdata <= "0000000000000001";
-    else
-        if(clk'event and clk = '1') then
-            if(ce = '1') then
-                if(write = '1') then
-                    ram_s(to_integer(unsigned(address))) <= wdata;
-                    rdata <= wdata;
-                else
-                    rdata <= ram_s(to_integer(unsigned(address)));
-                end if;
+    if(clk'event and clk = '1')then
+        if(ce = '1') then
+            if(reset = '1') then
+                rdata <= (others => '0');
+            elsif(write = '1') then
+                ram_s(to_integer(unsigned(address))) <= wdata;
             end if;
+            rdata <= ram_s(to_integer(unsigned(address)));
         end if;
     end if;
 end process;
